@@ -1,5 +1,10 @@
-### Hi there 👋
+Hi there 👋 i'm Mark!
 
+📌 I'm currently working on 
+📚️ I want to improve on JS.
+👨‍💻 I'm looking to collaborate on a e-commerce web application.
+💬 Ask me about basketball or anime and we'll be friends.
+⚡️ Fun fact: English was the second language I learned.
 <!--
 **mgabon/mgabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
