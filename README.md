@@ -1,6 +1,6 @@
 Hi there 👋 i'm Mark!
 
-📌 I'm currently working on 
+📌 I'm currently working on database structures and functional web applications.
 
 📚️ I want to improve on JS.
 
