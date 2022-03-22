@@ -17,7 +17,6 @@ Email: markgabon@hotmail.com
 LinkedIn: [Connect with me on linked in!](https://www.linkedin.com/in/mark-gabon-917761223/)
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgabon)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgabon&layout=compact)](https://github.com/mgabon/github-readme-stats)
 
 <!--
 **mgabon/mgabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
