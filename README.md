@@ -12,6 +12,7 @@ Hi there 👋 i'm Mark!
 
 📝 
 Email: markgabon@hotmail.com 
+
 LinkedIn:[Connect with me on linked in!](https://www.linkedin.com/in/mark-gabon-917761223/)
 
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgabon)](https://github.com/anuraghazra/github-readme-stats)
