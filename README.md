@@ -1,7 +1,6 @@
 # Hi there 👋 i'm Mark, a **Jr. Fullstack Web Developer.**
 
 In 2021, I dropped out of college to invest all my time in coding and took a chance to learn new skills in BloomTech.
-
 I've always been a curious person my entire life. Creating things from scratch and solving complex problems excite me.
 
 Learning new skills have been challenging, but rewarding. I look to the day where I can apply my skills to proceed in this diverse field.
