@@ -1,26 +1,17 @@
 # Hi there 👋 i'm Mark, a **Fullstack Web Developer.**
 
-In 2021, I made a career switch and fully devoted myself to learn coding and attended BloomTech in hopes to learn new skills.
 I've always been a curious person my entire life. Creating things from scratch and solving complex problems excite me.
-
 Learning new skills have been challenging, but rewarding. I look to the day where I can apply my skills to proceed in this diverse field.
 
 📌 I'm currently working on database structures and functional web applications.
-
 📚️ I want to improve on my technical skills.
-
 👨‍💻 I'm looking to collaborate on any large scale web application.
-
 💬 Ask me about basketball or anime and we'll be friends.
-
 ⚡️ Fun fact: English was the second language I learned.
 
 📝 
-
 Email: markgabon@hotmail.com 
-
 LinkedIn: [Connect with me on linked in!](https://www.linkedin.com/in/mark-gabon-917761223/)
-
 [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgabon)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
